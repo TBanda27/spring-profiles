@@ -1,0 +1,8 @@
+logging:
+  level:
+    org.springframework: trace
+
+currency-service:
+  url: https://dev.currency.ie
+  username: dev-currency
+  key: dev-currency$
